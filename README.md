@@ -46,7 +46,7 @@ BS-AI-Academic-Portfolio/
 │   │   └── README.md
 │   │
 │   ├── Computer-Organization/
-│   ├── Discrete-Structures/
+│   ├── Probability and Statistics/
 │   └── Other-Subjects/
 │
 └── README.md
